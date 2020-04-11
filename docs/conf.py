@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
-import os
 from __future__ import unicode_literals
+
+import os
 
 extensions = [
     'sphinx.ext.autodoc',
