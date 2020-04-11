@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
-from __future__ import unicode_literals
 import os
+from __future__ import unicode_literals
 
 extensions = [
     'sphinx.ext.autodoc',
